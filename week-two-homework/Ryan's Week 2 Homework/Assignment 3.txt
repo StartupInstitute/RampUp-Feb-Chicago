@@ -1,0 +1,34 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Assignment 3\
+\pard\pardeftab720
+
+\f1 \cf0 \
+C. age = 25\
+\
+def say_hello(name)\
+puts \'93Hello\'94 + name\
+end\
+\
+def \
+\'93def\'94 starts the definition of a new function. \
+\
+say_hello\
+\'93say_hello\'94 is the name of the new function created.\
+\
+(name)\
+\'93(name)\'94 is actually just a stand in variable to be used later in the function but it does outlined the number of arguments allowed, in this case, one. \
+\
+puts\
+\'93puts\'94 is a way to write the preceding strings, variables, values etc. \
+\
+\'93Hello\'94\
+\'93Hello\'94 is a string which means it is simply the text Hello. Anything with \'93\'94 around it is a string\
+\
+name\
+\'93name\'94 is the placeholder previously used in the function definition indicating where it will be used in the function. \
+}
