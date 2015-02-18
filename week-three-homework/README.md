@@ -1,12 +1,13 @@
 ### Part One:
 
-For the following gems:
+For the following gems: 
+
 1. rails
 2. nokogiri
 3. facebook
 4. twitter
 
-Look the gem up on rubygems, and find its documentation. Come up with an idea that you could use this gem (perhaps in conjunction with others) to execute on. When coming up with your ideas, remember that one of the greatest strengths of programming when it comes to solving problems is its ability to follow sets of instructions, depending on what its inputs are. For example, I could use the `twitter’ gem to periodically pull down the most popular tweets from people in the technology / start-up space that I’m interested in learning from.
+Look the gem up on rubygems, and find its documentation. Come up with an idea that you could use this gem (perhaps in conjunction with others) to execute on. When coming up with your ideas, remember that one of the greatest strengths of programming when it comes to solving problems is its ability to follow sets of instructions, depending on what its inputs are. For example, I could use the `twitter` gem to periodically pull down the most popular tweets from people in the technology / start-up space that I’m interested in learning from.
 
 ### Part Two:
 - Create a class named `Person`.
