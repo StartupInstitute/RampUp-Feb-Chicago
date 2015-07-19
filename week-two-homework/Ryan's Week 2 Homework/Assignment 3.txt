@@ -1,0 +1,25 @@
+Assignment 3
+
+C. age = 25
+
+def say_hello(name)
+puts “Hello” + name
+end
+
+def 
+“def” starts the definition of a new function. 
+
+say_hello
+“say_hello” is the name of the new function created.
+
+(name)
+“(name)” is actually just a stand in variable to be used later in the function but it does outlined the number of arguments allowed, in this case, one. 
+
+puts
+“puts” is a way to write the preceding strings, variables, values etc. 
+
+“Hello”
+“Hello” is a string which means it is simply the text Hello. Anything with “” around it is a string
+
+name
+“name” is the placeholder previously used in the function definition indicating where it will be used in the function. 

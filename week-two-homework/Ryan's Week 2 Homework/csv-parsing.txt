@@ -1,0 +1,15 @@
+Assignment 2
+
+The first line is loading the csv library, allowing the code to use methods from that library. 
+
+In the second line, the variable "f" is being set to the File.read method, which is a CSV method that loads a .csv file (in this case, specifically sample.csv)
+
+In the third line, the variable "parsed" is being created and set to the CSV.parse method which is using the variable "f" as the .csv file.
+
+What the variable parsed is doing in the forth line is creating an array, and putting each line of the csv file in an array, the "parse" method of CSV
+
+What the variable parsed[0] is doing in the fifth line is creating an array, and putting row "[0]", the first row of the csv file, in that array.
+
+What the variable parsed[0][0] is doing in the sixth line is finding row "[0]", the first row of the csv file, and is designating the first string, "[0]" of that first row.
+
+What the variable parsed[1][0] is doing in the seventh line is finding row "[1]", the second row of the csv file, and is designating the first string, "[0]" of that first row.
